@@ -1,5 +1,5 @@
 # Information
-Je suis **Demonloup**. Vous pouvez me contacter sur discord : `Demonloup#0516`.
+Je suis **Demonloup**. Vous pouvez me contacter sur discord : `DҽɱσɳLσυρ#3923`.
 Aussi **suivez-moi** sur github pour être au courant de nouvelle mises à jour et publication !
 
 ## Mes Stats Github
