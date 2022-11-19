@@ -7,4 +7,4 @@ Aussi **suivez-moi** sur github pour être au courant de nouvelle mises à jour 
    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=demonloupyt&show_icons=true&count_private=true&theme=tokyonight" />&nbsp;<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demonloupyt&layout=compact&count_private=true&theme=tokyonight" alt="mraugu" />
 </p>
 ## Mes Badges Github
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deomnloupyt" alt="demonloupyt" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=demonloupyt" alt="demonloupyt" /></a> </p>
